@@ -14,7 +14,7 @@ Tuples corresponding to RGB colors
     INFECTED = (210, 100, 140)
     RECOVERED = (0, 160, 0)
     UNEXPOSED = (0, 120, 240)
-
+'''doctrings test'''
 
 class Disease:
 """
